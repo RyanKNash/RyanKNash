@@ -5,11 +5,11 @@ Indie developer • Computer Science @ Drexel University • Army Veteran
 ---
 
 ## About Me
-- 🎓 Associate’s in Computer Science (Bucks County Community College) → Junior at Drexel CCI  
-- ⚔️ 13-year U.S. Army veteran with leadership and combat experience (HIMARS, comms, joint ops)  
-- 💻 Developer focusing on **Python, Rust, HTML, CSS and Java** with side explorations in **Go**, **Truescript** and **Ruby**  
-- 🛡️ Aspiring hybrid **Software Engineer + Cybersecurity Specialist** (red/blue team tool development)  
-- 📡 Building my own **Ubuntu home lab** for ethical hacking, networking, and file server projects  
+- Associate’s in Computer Science (Bucks County Community College) → Junior at Drexel CCI  
+- 13-year U.S. Army veteran with leadership and combat experience (HIMARS, comms, joint ops)  
+- Developer focusing on **Python, Rust, HTML, CSS and Java** with side explorations in **Go**, **Truescript** and **Ruby**  
+- Aspiring hybrid **Software Engineer + Cybersecurity Specialist** (red/blue team tool development)  
+- Building my own **Ubuntu home lab** for ethical hacking, networking, and file server projects  
 
 ---
 
