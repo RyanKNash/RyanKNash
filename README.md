@@ -29,10 +29,11 @@ My indie studio, where I build retro-inspired but modernized games with the hope
 
 ##  Tech Stack
 **Languages:**  
-- Python | Rust | Java | JavaScript/HTML/CSS  
+- Python | Rust | Java | C | Go | JavaScript/HTML/CSS  
 
 **Frameworks & Tools:**  
-- Bevy (Rust game engine)  
+- Godot
+- Bevy  
 - Pygame (prototyping & logic testing)  
 - React + Tailwind (web work)  
 - Git/GitHub (organization + project management)  
@@ -55,10 +56,6 @@ My indie studio, where I build retro-inspired but modernized games with the hope
 - [Geek Core Games on GitHub](https://github.com/GeekCoreGames)  
 - Domain: `geekcoregames.com`  
 - Always learning, building, and adapting — from CompTIA A+ → Network+ → Security+ → future Rust/Go mastery  
-
----
-
-*“What doesn’t bend, breaks — so I build with flexibility and resilience.”*
 
 <!---
 RyanKNash/RyanKNash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
