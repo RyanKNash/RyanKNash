@@ -17,9 +17,9 @@ Indie developer • Computer Science @ Drexel University • Army Veteran
 ### Geek Core Games (gXc)
 My indie studio, where I build retro-inspired but modernized games with the hope of large-scale projects soon:
 
-- **World Builder (Forge the Past?)**  
+- **The Long Dawn**  
   A large-scale simulation/strategy game featuring hex-based terrain, JSON-driven biome/settlement logic, cultural tech trees, and adjacency rules.  
-  Core in Python/Pygame, migrating to **Rust + Bevy** for long-term engine stability.  
+  Core in Python/Pygame, migrating to **Go** for long-term engine stability.  
 
 - **The Fifth Grave**  
   A top-down arena shooter made in **Rust (Bevy 0.16)**.  
