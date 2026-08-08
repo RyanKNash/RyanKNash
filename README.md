@@ -53,9 +53,10 @@ My indie studio, where I build retro-inspired but modernized games with the hope
 ---
 
 ## Connect with Me
-- [Geek Core Games on GitHub](https://github.com/GeekCoreGames)  
+- [Geek Core Games on GitHub](https://github.com/GeekCoreGames)
+- rknash@geekcoregames.com  
 - Domain: `geekcoregames.com`  
-- Always learning, building, and adapting — from CompTIA A+ → Network+ → Security+ → future Rust/Go mastery  
+- Always learning, building, and adapting.
 
 <!---
 RyanKNash/RyanKNash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
